@@ -18,6 +18,7 @@ table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-08-19 | Confluence/PDF | Completely broken formatting when trying to preview a PDF. Overlapping characters, placeholder images instead of the images that are supposed to be in the document, and misaligned text. |
 | 2022-08-18 | Github.com | Could not hover over any of the boxes in the contribution tracker to find out how many contributions I made that day. The tooltip simply did not spawn. Refreshing the page fixed the issue. |
 | 2022-08-18 | Deltek Time and Expense | When entering a contract name/number, it is useful to press the "Query" button to list out the possible values you can enter. In the "new and improved" version of this software, the button doesn't always appear. This can be remedied by pressing "Cancel" and re-trying the operation. |
 | 2022-08-18 | TCL TV | The TV disconnected from the Wi-Fi despite no other devices exhibiting this behavior, and no credential changes. |
