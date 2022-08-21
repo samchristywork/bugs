@@ -18,6 +18,7 @@ table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-08-29 | Minecraft | My girlfriend fell into lava and died in Minecraft, and when she re-spawned, her character still appeared to be on fire. She did not take any damage, and water did not put the fire out. Logging out of the server and re-joining fixed the issue. |
 | 2022-08-19 | Confluence/PDF | Completely broken formatting when trying to preview a PDF. Overlapping characters, placeholder images instead of the images that are supposed to be in the document, and misaligned text. |
 | 2022-08-18 | Github.com | Could not hover over any of the boxes in the contribution tracker to find out how many contributions I made that day. The tooltip simply did not spawn. Refreshing the page fixed the issue. |
 | 2022-08-18 | Deltek Time and Expense | When entering a contract name/number, it is useful to press the "Query" button to list out the possible values you can enter. In the "new and improved" version of this software, the button doesn't always appear. This can be remedied by pressing "Cancel" and re-trying the operation. |
