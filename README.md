@@ -18,6 +18,7 @@ table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-08-22 | Text Messages | I have gotten text messages from several family members regarding their results in the game "Wordle". I assume they are supposed to represent a game board, but they don't render correctly on my phone and show up as grey boxes and missing characters. |
 | 2022-08-21 | GMail | I tried to access my GMail account through my web browser, but all I got was a white page. Reloading the page with `ctrl-r` did not work. Reloading with `ctrl-shift-r` fixed the issue. |
 | 2022-08-21 | Android | My phone screen lit up for no reason. It usually does this when I get a text, it reaches 100% battery power, or when I press the power button, but in this case there was no such stimulus. |
 | 2022-08-19 | Minecraft | My girlfriend fell into lava and died in Minecraft, and when she re-spawned, her character still appeared to be on fire. She did not take any damage, and water did not put the fire out. Logging out of the server and re-joining fixed the issue. |
