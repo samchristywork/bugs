@@ -12,12 +12,13 @@ identify them when they come up.
 
 I believe that bugs are prevalent in all kinds of software, from small programs
 like the kind I develop on this account, to large programs used by millions and
-produced by teams of highly funded engineers. In order to prove this, I will be
+produced by teams of highly capable engineers. In order to prove this, I will be
 writing down bugs as I encounter them for a few months, and adding them to the
 table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-08-22 | Target Self Service | My receipt got stuck in the printer and I had to dig my fingers in to extract it. Not really a software bug. |
 | 2022-08-22 | Text Messages | I have gotten text messages from several family members regarding their results in the game "Wordle". I assume they are supposed to represent a game board, but they don't render correctly on my phone and show up as grey boxes and missing characters. |
 | 2022-08-21 | GMail | I tried to access my GMail account through my web browser, but all I got was a white page. Reloading the page with `ctrl-r` did not work. Reloading with `ctrl-shift-r` fixed the issue. |
 | 2022-08-21 | Android | My phone screen lit up for no reason. It usually does this when I get a text, it reaches 100% battery power, or when I press the power button, but in this case there was no such stimulus. |
