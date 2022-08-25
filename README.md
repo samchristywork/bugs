@@ -18,6 +18,7 @@ table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-08-23 | GMail | There were multiple "show context" buttons in an email chain that I was a part of. <a href=./res/gmail.png>[Image]</a> |
 | 2022-08-22 | Target Self Service | My receipt got stuck in the printer and I had to dig my fingers in to extract it. Not really a software bug. |
 | 2022-08-22 | Text Messages | I have gotten text messages from several family members regarding their results in the game "Wordle". I assume they are supposed to represent a game board, but they don't render correctly on my phone and show up as grey boxes and missing characters. |
 | 2022-08-21 | GMail | I tried to access my GMail account through my web browser, but all I got was a white page. Reloading the page with `ctrl-r` did not work. Reloading with `ctrl-shift-r` fixed the issue. |
