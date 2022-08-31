@@ -18,6 +18,7 @@ table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-08-27 | Firefox | A tab that was playing something on Amazon Video crashed. |
 | 2022-08-26 | Lego Pick a Brick | When I updated my search criteria, the page number did not reset to one, so that it said something like page "6 of 1". Because the page was beyond the end of the search results, the list of results was empty. |
 | 2022-08-26 | Google Chrome | When I resized my window, none of the tabs reflowed. They remained squished together as if the window was the size it was before I resized it. |
 | 2022-08-23 | YouTube Video | I saw about five frames of visual distortion in a YouTube video I was watching. It was a combination of color distortion, a kind of picture-in-picture affect, and some horizontal banding. |
