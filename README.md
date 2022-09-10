@@ -18,6 +18,9 @@ table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-09-01 | Windows | The "Troubleshoot sound problems" button doesn't work. Clicking on it reveals a message that says: "You'll need a new app to open this ms-conotact-support-link". |
+| 2022-09-01 | Jabra Headphones | I can't get audio through the headphones provided by my work. |
+| 2022-09-01 | WSL | Could not enable WSL, restarting the computer fixed the issue. |
 | 2022-08-30 | PathGroup | An image on "pathgroup.com" failed to load. |
 | 2022-08-29 | Workday | Changes to my tax information and marital status did not update. |
 | 2022-08-29 | Windows | Current system time is incorrect despite having a network connection and access to NTP. |
