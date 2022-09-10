@@ -19,7 +19,10 @@ table below:
 | Date | Product | Description |
 | --- | --- | --- |
 | 2022-08-30 | PathGroup | An image on "pathgroup.com" failed to load. |
+| 2022-08-29 | Workday | Changes to my tax information and marital status did not update. |
+| 2022-08-29 | Windows | Current system time is incorrect despite having a network connection and access to NTP. |
 | 2022-08-29 | Amazon Prime | The subtitles for the movie "Start Trek IV: The Voyage Home" were offset by about ten seconds. Switching the subtitles from "English (US)" to "English" resolved the issue. |
+| 2022-08-27 | Reddit.com | Reddit CDN was down for me. |
 | 2022-08-27 | Firefox | A tab that was playing something on Amazon Video crashed. |
 | 2022-08-26 | Lego Pick a Brick | When I updated my search criteria, the page number did not reset to one, so that it said something like page "6 of 1". Because the page was beyond the end of the search results, the list of results was empty. |
 | 2022-08-26 | Google Chrome | When I resized my window, none of the tabs reflowed. They remained squished together as if the window was the size it was before I resized it. |
