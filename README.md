@@ -18,6 +18,9 @@ table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-09-01 | Amazon.com | Got a "Secure Connection Failed" when trying to access the site. Reloading the page fixed the issue. |
+| 2022-09-01 | Npcap 1.60 | I was installing this software on my work computer and the installer would not continue beyond "Starting the npcap driver". I waited about 20 minutes. As the installer could not be closed, I had to restart my computer. |
+| 2022-09-01 | GrubSouth | I got two duplicate notifications. Both offered the same promo code, and had the same text. |
 | 2022-09-01 | Windows | The "Troubleshoot sound problems" button doesn't work. Clicking on it reveals a message that says: "You'll need a new app to open this ms-conotact-support-link". |
 | 2022-09-01 | Jabra Headphones | I can't get audio through the headphones provided by my work. |
 | 2022-09-01 | WSL | Could not enable WSL, restarting the computer fixed the issue. |
