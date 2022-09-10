@@ -18,6 +18,9 @@ table below:
 
 | Date | Product | Description |
 | --- | --- | --- |
+| 2022-09-02 | Roku TV / Amazon Prime | I clicked "skip" on a pre-roll ad, and the progress bar on the video started, but the video didn't play. It just showed the last frame of the pre-roll ad with no indication that it would advance for 30+ seconds. |
+| 2022-09-02 | Peleton.com | When you scroll to the bottom of the web page you can keep scrolling down a tiny bit to create an infinite amount of space below the footer. |
+| 2022-09-02 | Peleton.com | There was an image with blurry text. |
 | 2022-09-01 | Amazon.com | Got a "Secure Connection Failed" when trying to access the site. Reloading the page fixed the issue. |
 | 2022-09-01 | Npcap 1.60 | I was installing this software on my work computer and the installer would not continue beyond "Starting the npcap driver". I waited about 20 minutes. As the installer could not be closed, I had to restart my computer. |
 | 2022-09-01 | GrubSouth | I got two duplicate notifications. Both offered the same promo code, and had the same text. |
