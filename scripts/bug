@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cat << EOF >> ~/bugs
+----------
+Title:
+Date: $(date +%Y-%m-%d)
+Software:
+
+Notes:
+EOF
+
+nvim ~/bugs
